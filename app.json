@@ -1,0 +1,12 @@
+{
+  "name": "providertest",
+  "displayName": "providertest",
+  "expo": {
+    "name": "providertest",
+    "slug": "providertest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
