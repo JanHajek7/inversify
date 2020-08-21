@@ -1,5 +1,5 @@
 import { Container } from "inversify";
-import { myService } from "../services/my-service";
+import { myService } from "./my-service";
 
 import "reflect-metadata";
 
